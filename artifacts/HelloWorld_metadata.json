@@ -1,0 +1,62 @@
+{
+	"compiler": {
+		"version": "0.4.15+commit.bbb8e64f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "kill",
+				"outputs": [],
+				"payable": false,
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"payable": false,
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Hello.sol": "HelloWorld"
+		},
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Hello.sol": {
+			"keccak256": "0x29ad4fd25dfa2a5b3ea26d0063b3a93a6e9825ceb43cea794b898efc1cc23336",
+			"urls": [
+				"bzzr://dbccf25fa085994011ed39a1ae9721c425af019d79905dac3713dc506ab99d97"
+			]
+		}
+	},
+	"version": 1
+}
